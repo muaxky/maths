@@ -9,5 +9,5 @@ bresenh.cpp
 montyh.swift
 ------------
 - simulation of the Monty Hall problem written in Swift
-- game count adjustable via global constants
+- game count adjustable via global variable
 - displays summary of game statistics
