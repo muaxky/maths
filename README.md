@@ -3,7 +3,7 @@ Details
 
 bresenh.cpp
 -----------
-- an implementation of the bresenham algorithm in C and x86_16 assembly
+- an implementation of the Bresenham algorithm in C and x86_16 assembly
 - developed and tested using Borland C++ 2.0 on an 80286 class machine
 
 montyh.swift
